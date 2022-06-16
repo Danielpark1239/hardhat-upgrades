@@ -18,7 +18,7 @@ contract BoxV2 {
     }
 
     function version() public pure returns (uint256) {
-        return 1;
+        return 2;
     }
 
     function increment() public {
